@@ -9,3 +9,9 @@ resource "azurerm_resource_group" "name77" {
     location = "eastus"
   
 }
+
+resource "azurerm_resource_group" "name77" {
+    name = "santosh7799"
+    location = "eastus"
+  
+}
